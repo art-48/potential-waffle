@@ -1,4 +1,4 @@
-# Klukovich Artur, 2 ISIT
+# Klukovich Artur, 2, ISIT
 the lab №1
 echo "# potential-waffle" >> README.md
 git init
